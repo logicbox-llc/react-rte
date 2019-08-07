@@ -1,5 +1,5 @@
 /* @flow */
-import ImageSpan from '../ui/ImageSpan';
+import Image from '../ui/Image';
 import {ENTITY_TYPE} from 'draft-js-utils';
 
 import type {ContentBlock, ContentState} from 'draft-js';
@@ -19,5 +19,5 @@ function findImageEntities(contentBlock: ContentBlock, callback: EntityRangeCall
 
 export default {
   strategy: findImageEntities,
-  component: ImageSpan,
+  component: Image,
 };
