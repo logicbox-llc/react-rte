@@ -2,6 +2,6 @@ _*
 !__tests__
 /assets/dist
 /lib
-#/dist
+/dist
 /node_modules
 .idea
