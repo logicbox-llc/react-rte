@@ -1,6 +1,6 @@
 {
   "name": "@logicbox-llc/react-rte",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Rich Text Editor",
   "main": "dist/react-rte.js",
   "files": [
@@ -64,7 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sstur/react-rte.git"
+    "url": "git+https://github.com/logicbox-llc/react-rte.git"
   },
   "keywords": [
     "reactjs",
@@ -141,5 +141,5 @@
   "bugs": {
     "url": "https://github.com/sstur/react-rte/issues"
   },
-  "homepage": "https://github.com/sstur/react-rte#readme"
+  "homepage": "https://github.com/logicbox-llc/react-rte#readme"
 }
