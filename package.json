@@ -1,6 +1,6 @@
 {
   "name": "@logicbox-llc/react-rte",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "React Rich Text Editor",
   "main": "dist/react-rte.js",
   "files": [
